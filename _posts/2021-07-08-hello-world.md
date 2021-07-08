@@ -12,3 +12,16 @@ Um texto qualquer
 
 # Logo do Github.
 ![Git Hublogo](https://image.flaticon.com/icons/png/512/25/25231.png)
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+```sql
+SELECT C.name FROM Cliente C;
+```
+
