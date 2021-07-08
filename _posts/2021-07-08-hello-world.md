@@ -9,3 +9,6 @@ categories: welcome
 #  Esse é o meu sub-titulo.
 
 Um texto qualquer
+
+# Logo do Github.
+![Git Hublogo](https://image.flaticon.com/icons/png/512/25/25231.png)
