@@ -10,8 +10,13 @@ categories: welcome
 
 Um texto qualquer
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 # Logo do Github.
-![Git Hublogo](https://image.flaticon.com/icons/png/512/25/25231.png)
+[![Git Hublogo](https://image.flaticon.com/icons/png/512/25/25231.png)](https://github.com/)
 
 ```json
 {
