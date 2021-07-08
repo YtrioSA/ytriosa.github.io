@@ -25,3 +25,6 @@ Um texto qualquer
 SELECT C.name FROM Cliente C;
 ```
 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
