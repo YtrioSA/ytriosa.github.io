@@ -21,7 +21,7 @@
 title: Central da TI Serviços Peças E/Acessórios. 
 email: ytrios.a@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Montagem e manutenção de computadores.
+  manutenção de computadores e programação.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ytriosa.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: YtrioSA
