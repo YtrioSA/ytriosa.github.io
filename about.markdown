@@ -4,6 +4,8 @@ title: Sobre
 permalink: /about/
 ---
 
+![Logo Marca da Empresa](Logoooooo.png)
+
 Fazemos serviços vendemos peças e acessórios
 e prestamos mentoria particular para iniciantes
 em programação.
