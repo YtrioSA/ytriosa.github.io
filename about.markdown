@@ -11,7 +11,7 @@ e prestamos mentoria particular para iniciantes
 em programação.
 
 Caso queira saber mais basta mandar um direct no instagram para
-o perfil: [Instagram Ytrio](https://www.instagram.com/koujirof/)
+o perfil: [Instagram Ytrio Salmito](https://www.instagram.com/ytrio.salmito/)
 
 ou mandar uma mensagem para o nosso whatsApp: 
 - Alysson
