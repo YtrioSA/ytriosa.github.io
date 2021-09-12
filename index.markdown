@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![Logo Marca da Empresa](Logoooooo.png)
+![Logo Marca da Empresa](1.png)
