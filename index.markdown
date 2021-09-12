@@ -5,4 +5,3 @@
 layout: home
 ---
 
-![Logo Marca da Empresa](1.jpeg)
